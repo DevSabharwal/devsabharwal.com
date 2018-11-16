@@ -104,12 +104,20 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #3867bd !important; }
+  background-color: #0166fe !important; }
 
 .text-primary {
-  color: #3867bd !important; }
+  color: #0166fe !important; }
 
 a {
-  color: #3867bd; }
+  color: #0166fe; }
   a:hover, a:focus, a:active {
     color: #824027; }
+
+.semiHeader{
+  text-decoration: underline;
+}
+
+.indentedBullet{
+  margin-left: 15px;
+}
