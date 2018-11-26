@@ -29,7 +29,9 @@
         "bootstrap": "4.1.1",
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1",
-        "lodash.update": "^4.10.2"
+        "lodash.update": "^4.10.2",
+        "node": "^11.1.0",
+        "particles.js": "^2.0.0"
     },
     "devDependencies": {
         "browser-sync": "2.24.5",
